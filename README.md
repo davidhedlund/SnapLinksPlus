@@ -6,13 +6,22 @@ Snap Links is a browser add-on that lets you lasso links, checkboxes, and other 
 
 **Quick Tutorial:** Once installed, lasso elements on a page using the default action: hold the right mouse button, drag the cursor over them, and release to click them (opening links, toggling checkboxes, etc.).
 
-Example when links are lassoed:
+## Examples
+
+## Example when links are lassoed
 
 <img width="700" height="438" alt="image" src="https://github.com/user-attachments/assets/2c193e84-4ba0-4b93-b69c-7f42f9abeb2c" />
 
-Example when checkboxes and radio buttons are lassoed:
+## Example when checkboxes and radio buttons are lassoed
 
 <img width="533" height="161" alt="image" src="https://github.com/user-attachments/assets/5c155006-c291-49f3-aff0-1c8ca0f7ad61" />
+
+## Test pages
+* [IFrame content](https://html-preview.github.io/?url=https://raw.githubusercontent.com/cpriest/SnapLinksPlus/master/test/iframe_iframe_content.htm)
+* [IFrame issue49](https://html-preview.github.io/?url=https://raw.githubusercontent.com/cpriest/SnapLinksPlus/master/test/iframe_issue49.htm)
+* [Issue 308](https://html-preview.github.io/?url=https://raw.githubusercontent.com/cpriest/SnapLinksPlus/master/test/issue308.htm)
+* [Overlapped range](https://html-preview.github.io/?url=https://raw.githubusercontent.com/cpriest/SnapLinksPlus/master/test/overlapped_range.html)
+* [Test links](https://html-preview.github.io/?url=https://raw.githubusercontent.com/cpriest/SnapLinksPlus/master/test/test_links.html)
 
 ## Comparison with Linkclump
 
